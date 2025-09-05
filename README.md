@@ -1,3 +1,3 @@
 # NETFLIX-ANALYSIS
-![Image](https://github.com/user-attachments/assets/b904443e-2474-4702-a40a-94c4c0d3e7d5)
+<img width="222" height="227" alt="Image" src="https://github.com/user-attachments/assets/e6dd5c64-968e-403f-9de8-5c75908557d7" />
 
