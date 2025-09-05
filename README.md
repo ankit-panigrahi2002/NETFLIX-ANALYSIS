@@ -1,2 +1,3 @@
 # NETFLIX-ANALYSIS
-<img width="300" height="168" alt="Image" src="https://github.com/user-attachments/assets/cfa8ee61-bf1d-4fc7-a555-a478a6302cc7" />
+![Image](https://github.com/user-attachments/assets/b904443e-2474-4702-a40a-94c4c0d3e7d5)
+
